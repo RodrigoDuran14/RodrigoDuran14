@@ -1,6 +1,6 @@
 # Hi there! I am Rodrigo 👋
 ### Web Developer
-![web developer](https://www.linkedin.com/in/rodrigoduran14/overlay/background-image/)
+![imagen de portada](https://media.licdn.com/dms/image/D4D16AQHkwMZYjajumA/profile-displaybackgroundimage-shrink_350_1400/0/1684803033227?e=1701302400&v=beta&t=clEeMiHllbAzlkK6Q46xnA8E4NVCdQ4-VmNI4SMeox4)
 
 
 <!--
