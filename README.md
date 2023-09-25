@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I am Rodrigo 👋
+### Web Developer
+(https://www.linkedin.com/in/rodrigoduran14/overlay/background-image/)
+
 
 <!--
 **RodrigoDuran14/RodrigoDuran14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
