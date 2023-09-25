@@ -1,6 +1,6 @@
 # Hi there! I am Rodrigo 👋
 ### Web Developer
-[web developer](https://www.linkedin.com/in/rodrigoduran14/overlay/background-image/)
+![web developer](https://www.linkedin.com/in/rodrigoduran14/overlay/background-image/)
 
 
 <!--
